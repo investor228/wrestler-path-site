@@ -6,4 +6,5 @@
 
 - Игра: https://investor228.github.io/wrestler-path-site/
 - Политика конфиденциальности / Privacy policy: https://investor228.github.io/wrestler-path-site/privacy.html
+- Лаборатория баланса / Balance lab: https://investor228.github.io/wrestler-path-site/lab.html
 - Поддержка / Support: maksim.padleski@gmail.com
